@@ -1,0 +1,3 @@
+# human_emotion_classify
+学习kaggle的人脸表情识别分类项目做的小demo，初次接触卷积神经网络
+训练效果一般，仅供参考
